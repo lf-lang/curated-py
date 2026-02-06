@@ -2,8 +2,8 @@
 
 The purpose of this repository is to serve as a template for new Lingua Franca (LF)
 projects that use the Python target. The goal is to provide a large number of examples
-and documentation specific to the Python target so as to guide AI assistants that are
-using RAG (Retrieval Augmented Generation).
+and documentation specific to the Python target so as to guide AI assistants that use files in a local context to guide their responses, including those using RAG (Retrieval Augmented Generation).
+
 
 To use this, at the [curated-py homepage](https://github.com/lf-lang/curated-py),
 select "Use this template" to create a new repository.
